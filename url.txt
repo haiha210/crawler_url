@@ -1,0 +1,16 @@
+https://wapi.kurashiru.com/wapi/account
+https://wapi.kurashiru.com/wapi/ab_tests
+https://wapi.kurashiru.com/wapi/videos/ranking?mask=true
+https://wapi.kurashiru.com/wapi/recipe_cards/top
+https://wapi.kurashiru.com/wapi/video_lists?page%5Bnumber%5D=1&page%5Bsize%5D=2
+https://wapi.kurashiru.com/wapi/video_search_categories/recommend?page%5Bsize%5D=10&page%5Bnumber%5D=1
+https://wapi.kurashiru.com/wapi/video_features?page%5Bsize%5D=1&page%5Bnumber%5D=1
+https://wapi.kurashiru.com/wapi/video_tag_groups/classic
+https://wapi.kurashiru.com/wapi/articles?page%5Bnumber%5D=1&page%5Bsize%5D=10
+https://wapi.kurashiru.com/wapi/profiles?page%5Bnumber%5D=1&page%5Bsize%5D=3
+https://wapi.kurashiru.com/wapi/video_tag_groups/top_other
+https://wapi.kurashiru.com/wapi/videos/pickup?page%5Bsize%5D=30&page%5Bnumber%5D=1
+https://wapi.kurashiru.com/wapi/recipe_card_lists?page%5Bnumber%5D=1&page%5Bsize%5D=4
+https://wapi.kurashiru.com/wapi/video_search_categories?page%5Bsize%5D=10&page%5Bnumber%5D=1
+https://wapi.kurashiru.com/wapi/video_search_category_chunks/top_ingredient_categories_pc?nest_level=3&thumbnail_required=true
+https://wapi.kurashiru.com/wapi/video_search_category_chunks/top_menu_categories_pc?nest_level=3&thumbnail_required=true
